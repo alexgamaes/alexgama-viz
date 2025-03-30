@@ -1,0 +1,5 @@
+name = "alexgamaviz"
+compatibility_date = "2025-03-30"
+
+[site]
+bucket = "dist"
